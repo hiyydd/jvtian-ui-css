@@ -15,7 +15,15 @@
 - Developed by a junior high school student ❕  
 
 - 外国用户请开启翻译功能浏览网站 (https://jyrmwdnp.manus.space/)  
-- If you are a foreigner, please turn on the translation to browse this website (https://jyrmwdnp.manus.space/)
+- If you are a foreigner, please turn on the translation to browse this website (https://jyrmwdnp.manus.space/)  
+
+
+## 支持与反馈 (Support & Feedback)
+如果您觉得这个项目有价值，欢迎在GitHub仓库点亮⭐星标（Star），这将是对开发者最大的鼓励！  
+If you find this project valuable, please feel free to star the GitHub repository—it would be the greatest encouragement for the developer!
+
+也欢迎提交issues提出建议或反馈问题，一起帮助这个项目成长～  
+You are also welcome to submit issues to suggest improvements or report problems, helping the project grow together!
 ## ✨ Features
 
 - 🚀 Ready to use out of the box
