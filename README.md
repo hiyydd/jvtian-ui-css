@@ -10,11 +10,13 @@ A modern UI component library with over 500 features and components, helping dev
 - 📱 Responsive design
 - 🎨 Theme customization
 - 🔧 500+ functions covering various development scenarios
+- 📜 Released under the Unlicense - one of the world's most permissive open-source licenses
 
 - 🚀 开箱即用
 - 📱 响应式设计
 - 🎨 主题定制
 - 🔧 500+ 功能覆盖各种开发场景
+- 📜 基于 Unlicense 协议 发布 —— 世界上最宽松的开源协议之一
 
 ## 🚀 Quick Start
 
@@ -84,9 +86,16 @@ Comprehensive components and utility functions to meet various development needs
 ## 🤔 Why Choose Jutian UI?
 
 - **High Performance**: Optimized code structure ensures the best performance
-- **Easy to Use**: Simple API design for quick上手 development
+- **Easy to Use**: Simple API design for quick  development
 - **Theme Customization**: Flexible theme system to meet personalized needs
 - **Rich Features**: 500+ functions covering various development scenarios
+- Maximum Freedom: Released under the Unlicense, the most permissive open-source license
+- 高性能：优化的代码结构，确保最佳性能表现
+易于使用：简洁的 API 设计，快速上手开发
+主题定制：灵活的主题系统，满足个性化需求
+功能丰富：500 + 功能覆盖各种开发场景
+最大自由度：基于最宽松的 Unlicense 开源协议发布
+
 
 - **高性能**：优化的代码结构，确保最佳性能表现
 - **易于使用**：简洁的API设计，快速上手开发
