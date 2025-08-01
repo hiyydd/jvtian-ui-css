@@ -1,7 +1,7 @@
 # 巨天UI (Jutian UI)
 
 ## 官网及教程 (Official Website & Tutorials)
-- 官网地址 (Website URL)：https://jyrmwdnp.manus.space/  
+- 官网地址 (Website URL)：https://jsnpsqoc.manus.space/
 - 包含AI创建的教程 (Includes tutorials created by AI)  
 
 
@@ -14,8 +14,8 @@
 - 由一名初中生开发 ❕  
 - Developed by a junior high school student ❕  
 
-- 外国用户请开启翻译功能浏览网站 (https://jyrmwdnp.manus.space/)  
-- If you are a foreigner, please turn on the translation to browse this website (https://jyrmwdnp.manus.space/)  
+- 外国用户请开启翻译功能浏览网站 (https://jsnpsqoc.manus.space/)  
+- If you are a foreigner, please turn on the translation to browse this website (https://jsnpsqoc.manus.space/)  
 
 
 ## 支持与反馈 (Support & Feedback)
