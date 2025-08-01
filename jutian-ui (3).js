@@ -7,7 +7,10 @@
     /**
      * 巨天UI - 按钮组件
      * 支持多种类型、大小、状态的按钮
-     */
+     *//**
+* Jutian UI - Button Component
+* Supports buttons of various types, sizes, and states
+*/
     class JTButton extends HTMLElement {
         constructor() {
             super();
