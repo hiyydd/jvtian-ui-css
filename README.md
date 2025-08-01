@@ -1,8 +1,8 @@
 # 巨天UI (Jutian UI)
-官网(由ai创建):https://jyrmwdnp.manus.space/
-Official website (created by AI): https://jyrmwdnp.manus.space/
-A modern UI component library with over 500 features and components, helping developers quickly build modern web applications.Developed by a junior high school student
-
+   官网-有教程(由ai创建):https://jyrmwdnp.manus.space/
+    Official website -Tutorials included(created by AI): https://jyrmwdnp.manus.space/
+      A modern UI component library with over 500 features and components, helping developers quickly build modern web applications.Developed by a junior high school student
+❕⚠️⚠️⚠️If you are a foreigner, please turn on the translation to browse this website(https://jyrmwdnp.manus.space/)
 一个现代化的UI组件库，提供超过500个功能和组件，帮助开发者快速构建现代化的Web应用程序。由一个初中生开发
 
 ## ✨ Features
