@@ -10,7 +10,7 @@ A modern UI component library with over 500 features and components, helping dev
 - 📱 Responsive design
 - 🎨 Theme customization
 - 🔧 500+ functions covering various development scenarios
-- 📜 Released under the Unlicense - one of the world's most permissive open-source licenses
+-  📜 Released under the Unlicense - one of the world's most permissive open-source licenses
 
 - 🚀 开箱即用
 - 📱 响应式设计
